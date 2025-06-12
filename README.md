@@ -1,0 +1,1 @@
+# This project visually enhance a national cricket team application with a CSS design, including a fixed header, sticky image sections, detailed player displays, a scrollable roster, a styled rankings table, and a clear footer.
